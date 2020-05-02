@@ -1,0 +1,6 @@
+.login-container {
+    margin-top: 50%;
+    -moz-box-shadow: 0 0 3px #eeeeee;
+    -webkit-box-shadow: 0 0 3px #eeeeee;
+    box-shadow: 0 0 3px #eeeeee;
+}
