@@ -13,6 +13,6 @@ code {
     monospace;
 }
 
-input:active, input:focus, button:focus{
-  outline: none;
+*:focus {
+  outline: none !important;
 }

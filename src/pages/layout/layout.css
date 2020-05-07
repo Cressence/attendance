@@ -1,0 +1,8 @@
+.sidebar .list-group a {
+    border-radius: 0;
+}
+
+.sidebar .list-group-item.active {
+    background-color: #44158f;
+    border-color: #44158f;
+}
